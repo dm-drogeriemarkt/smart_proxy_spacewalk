@@ -1,0 +1,5 @@
+---
+:enabled: true
+:url: 'https://spacewalk.example.com/rpc/api'
+:login: ''
+:password: ''

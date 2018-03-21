@@ -1,0 +1,1 @@
+<?xml version="1.0" ?><methodCall><methodName>auth.login</methodName><params><param><value><string>user</string></value></param><param><value><string>password</string></value></param></params></methodCall>
