@@ -20,3 +20,4 @@ end
 
 gem 'addressable', '< 2.2.0', :platforms => :ruby_18
 gem 'json', '~> 1.0', :platforms => [:ruby_18, :ruby_19]
+gem 'xmlrpc', '~> 0.2' if RUBY_VERSION >= '2.4'
