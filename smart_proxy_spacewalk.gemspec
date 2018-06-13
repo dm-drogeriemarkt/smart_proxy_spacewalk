@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email = 'timo.goebel@dm.de'
   s.extra_rdoc_files = ['README.md', 'LICENSE']
   s.files = `git ls-files`.split("\n") - ['.gitignore']
-  s.homepage = 'http://github.com/dm-drogeriemarkt/smart_proxy_spacewalk'
+  s.homepage = 'https://github.com/dm-drogeriemarkt/smart_proxy_spacewalk'
   s.license = 'GPLv3'
 
   s.add_dependency('json')
