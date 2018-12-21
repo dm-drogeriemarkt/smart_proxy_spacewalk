@@ -1,5 +1,7 @@
 # Smart Proxy - Spacewalk
 
+[<img src="https://opensourcelogos.aws.dmtech.cloud/dmTECH_opensource_logo%401x.svg" height="21" width="130">](https://www.dmtech.de/)
+
 This plug-in adds support for communicating with a Spacewalk server (i.e. RedHat Satellite 5, Suse Manager) to Foreman's Smart Proxy. The [Foreman Spacewalk plugin](https://github.com/dm-drogeriemarkt/foreman_spacewalk) plug-in needs to be installed in Foreman itself for the integration to work properly.
 
 ## Compatibility
@@ -18,7 +20,7 @@ Do not forget to register the smart proxy in Foreman via the user interface.
 
 ## Copyright
 
-Copyright (c) 2018 dm-drogerie markt GmbH & Co. KG, https://dm.de
+Copyright (c) 2018 dmTECH GmbH, [dmtech.de](https://www.dmtech.de/)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
