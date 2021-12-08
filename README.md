@@ -1,3 +1,6 @@
+:warning: | This repository is not being maintained anymore.
+:---: | :---
+
 # Smart Proxy - Spacewalk
 
 This plug-in adds support for communicating with a Spacewalk server (i.e. RedHat Satellite 5, Suse Manager) to Foreman's Smart Proxy. The [Foreman Spacewalk plugin](https://github.com/dm-drogeriemarkt/foreman_spacewalk) plug-in needs to be installed in Foreman itself for the integration to work properly.
